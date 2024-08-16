@@ -1,0 +1,83 @@
+.cartContainer {
+  width: 30%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.itemsList {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 5px;
+}
+
+.itemBlock {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  padding-right: 80px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  width: 80%;
+}
+
+.itemImg {
+  width: 60px;
+  height: 90px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.itemDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.itemTitle {
+  font-size: 1em;
+  margin: 0;
+}
+
+.itemPrice {
+  font-size: 0.9em;
+  color: #555;
+  margin: 5px 0;
+}
+
+.removeBtn {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  align-self: flex-start;
+  /* Align button to the left */
+}
+
+.removeBtn:hover {
+  background-color: #c82333;
+}
+
+.cartCount {
+  position: absolute;
+  top: 2%;
+  right: 13%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+
+  background-color: red;
+  color: white;
+}

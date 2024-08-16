@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Harry Potter",
+    "desc": "A young wizard's journey through magical adventures at Hogwarts School of Witchcraft and Wizardry.",
+    "img": "/src/data/book/1.jpg",
+    "price": 29.99
+  },
+  {
+    "id": 2,
+    "title": "The Subconscious Mind",
+    "desc": "A guide to harnessing the power of your subconscious mind to achieve your goals and improve your life.",
+    "img": "/src/data/book/2.jpg",
+    "price": 14.99
+  },
+  {
+    "id": 3,
+    "title": "Naga Warriors",
+    "desc": "An epic fantasy novel featuring a mystical world and a group of brave warriors on a quest.",
+    "img": "/src/data/book/9.jpg",
+    "price": 25.99
+  },
+  {
+    "id": 4,
+    "title": "Silent Patient",
+    "desc": "A psychological thriller about a woman who stops speaking after being accused of her husband's murder.",
+    "img": "/src/data/book/4.jpg",
+    "price": 19.99
+  },
+  {
+    "id": 5,
+    "title": "Sidha Murty",
+    "desc": "A novel exploring the life and teachings of a revered spiritual leader.",
+    "img": "/src/data/book/5.jpg",
+    "price": 16.99
+  },
+  {
+    "id": 6,
+    "title": "White Nights",
+    "desc": "A crime thriller set in a chilling and mysterious Arctic setting.",
+    "img": "/src/data/book/6.jpg",
+    "price": 22.99
+  },
+  {
+    "id": 7,
+    "title": "Marcus Aurelius",
+    "desc": "A collection of meditations and philosophical reflections by the Roman Emperor Marcus Aurelius.",
+    "img": "/src/data/book/7.jpg",
+    "price": 18.99
+  },
+  {
+    "id": 8,
+    "title": "Good Girl's Guide to Murder",
+    "desc": "A young girl's investigation into a high-profile murder case leads to unexpected and dangerous revelations.",
+    "img": "/src/data/book/8.jpg",
+    "price": 21.99
+  },
+  {
+    "id": 9,
+    "title": "Naga Warriors",
+    "desc": "An epic fantasy novel featuring a mystical world and a group of brave warriors on a quest.",
+    "img": "/src/data/book/9.jpg",
+    "price": 25.99
+  },
+  {
+    "id": 10,
+    "title": "5 AM Club",
+    "desc": "A motivational guide to waking up early and using the early hours of the day for personal growth and success.",
+    "img": "/src/data/book/10.jpg",
+    "price": 17.99
+  }
+]
