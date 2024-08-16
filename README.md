@@ -1,4 +1,4 @@
-![Project Screenshot](/src/assets/ss.png
+![Project Screenshot](/src/assets/ss.png)
 
 # React + Vite
 
